@@ -1,0 +1,23 @@
+li {
+  list-style: none;
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 3px 7px 3px 7px;
+  padding: 2px 4px 2px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+}
+
+.arrow-image {
+  height: 25px;
+  cursor: pointer;
+  outline: none;
+  margin: 3px 7px 3px 7px;
+  padding: 2px 4px 2px 4px;
+}
